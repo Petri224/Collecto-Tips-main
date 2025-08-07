@@ -394,6 +394,7 @@ justify-content:flex-start;
             grid-template-columns: auto auto;
             align-items: center;
             justify-content: flex-end;
+            margin-bottom: 20px;
         }
         .immagine-sinistra{
             display: flex;
